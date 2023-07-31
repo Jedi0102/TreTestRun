@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 30 17:03:59 GET 2023","Sun Jul 30 17:05:11 GET 2023","72011","Default Suite","TRE","TestRun","TestRun","testPurchaseProcess","testPurchaseProcess","This method tests e2e of purchase process including selecting tickets , dates also registration process and buying tickets"
